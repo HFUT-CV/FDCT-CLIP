@@ -10,11 +10,11 @@ The code is coming soon.
 ## Installation
 
 ### Requirements
-Python 3.7
-Pytorch 1.0.0
-opencv
-torchvision 0.2.1
-cuda 10.0
+1. Python 3.7 
+2. Pytorch 1.0.0
+3. opencv
+4. torchvision 0.2.1
+5. cuda 10.0
 
 ## Evaluation
 
