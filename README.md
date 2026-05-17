@@ -1,4 +1,4 @@
-# MSFD-GIS
+# FDCT-CLIP
 [Project Page](https://github.com/HFUT-CV/MSFD-GIS)
 
 This repository contains the code for our paper.
