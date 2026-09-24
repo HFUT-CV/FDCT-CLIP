@@ -25,7 +25,7 @@ The code is made available for academic research purpose only. Under Attribution
 
 ## Citation
 
-If you find this work helpful for your research, **please cite our paper**:
+If you find this work helpful for your research, please cite our paper:
 
 ```bibtex
 @article{yu2026fdctclip,
@@ -33,8 +33,7 @@ If you find this work helpful for your research, **please cite our paper**:
   author    = {Yu, Ye and Yang, Zhengyang and Yi, Jun and Chen, Deming and Jia, Wei and Yu, Jun},
   journal   = {IEEE Transactions on Circuits and Systems for Video Technology},
   year      = {2026},
-  publisher = {IEEE},
-  note      = {Accepted. DOI and volume/page information will be updated upon publication.}
+  publisher = {IEEE}
 }
 ```
 
