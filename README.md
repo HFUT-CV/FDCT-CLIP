@@ -1,7 +1,7 @@
 # FDCT-CLIP
 
 This repository contains the official code for our paper "FDCT-CLIP: A Multiscale Semantic-Frequency Denoising with Gated Illumination Smoothing Method for Low-Light Video Enhancement", accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
-![Uploading Fig1.png…]()
+<img src="main.png" alt="示例图片" />
 
 If you find our work useful in your research, please consider citing our paper (see Citation section below).
 
