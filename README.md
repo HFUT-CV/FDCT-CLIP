@@ -1,7 +1,7 @@
 # FDCT-CLIP
 [Project Page](https://github.com/HFUT-CV/MSFD-GIS)
-
-This repository contains the official code for our paper “FDCT-CLIP: A Multiscale Semantic-Frequency Denoising with Gated Illumination Smoothing Method for Low-Light Video Enhancement”, accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026.
+**FDCT-CLIP: A Multiscale Semantic-Frequency Denoising with Gated Illumination Smoothing Method for Low-Light Video Enhancement**
+This repository contains the official code for our paper, accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 
 If you find our work useful in your research, please consider citing our paper (see Citation section below).
 
@@ -25,8 +25,6 @@ The code is coming soon.
 The code is made available for academic research purpose only. Under Attribution-NonCommercial 4.0 International License.
 
 ## Citation
-
-If you find this work helpful for your research, please cite our paper:
 
 ```bibtex
 @article{yu2026fdctclip,
