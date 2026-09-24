@@ -12,11 +12,12 @@ The code is coming soon.
 ## Installation
 
 ### Requirements
-1. Python 3.7 
-2. Pytorch 1.0.0
-3. opencv
-4. torchvision 0.2.1
-5. cuda 10.0
+
+1. Python >= 3.10
+2. PyTorch >= 1.10
+3. torchvision >= 0.11
+4. CUDA 12.1
+5. opencv-python
 
 ## Evaluation
 
@@ -29,11 +30,13 @@ If you find this work helpful for your research, please cite our paper:
 
 ```bibtex
 @article{yu2026fdctclip,
-  title     = {FDCT-CLIP: A Multiscale Semantic-Frequency Denoising with Gated Illumination Smoothing Method for Low-Light Video Enhancement},
-  author    = {Yu, Ye and Yang, Zhengyang and Yi, Jun and Chen, Deming and Jia, Wei and Yu, Jun},
-  journal   = {IEEE Transactions on Circuits and Systems for Video Technology},
-  year      = {2026},
-  publisher = {IEEE}
+  author  = {Yu, Ye and Yang, Zhengyang and Yi, Jun and Chen, Deming and Jia, Wei and Yu, Jun},
+  title   = {FDCT-CLIP: A Multiscale Semantic-Frequency Denoising with Gated Illumination Smoothing Method for Low-Light Video Enhancement},
+  journal = {IEEE Transactions on Circuits and Systems for Video Technology},
+  year    = {2026},
+  month   = {},
+  pages   = {},
+  doi     = {}
 }
 ```
 
